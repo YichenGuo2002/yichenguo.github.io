@@ -18,19 +18,13 @@ body {
     justify-content:space-between;
 }
 .navigation{
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-right-color:#3c2f2f;
-    min-width: 250px;
-    /*background: #d7bfa3;*/
-    padding: 0px;
-    display:flex;
-    justify-content:flex-start;
 }
 .main{
-    min-width: 850px;
+    width: 900px;
     padding-left: 100px;
     padding-right: 100px;
+    margin-left: 50px;
+    background-image: url("static/notebook.jpg");
 }
 h1 {
     font-size: 2.5em;
